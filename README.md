@@ -1,1 +1,1 @@
-# Breaking-the-Records-ALGO
+# Breaking-the-Records-ALGO.This C# program tracks how many times a player breaks their highest and lowest scoring records during a season. It iterates through the scores list, counting each time a new maximum or minimum score is reached after the first game.
